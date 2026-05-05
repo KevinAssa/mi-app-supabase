@@ -1,2 +1,1 @@
 # mi-app-supabase
-work
